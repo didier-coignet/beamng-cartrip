@@ -1,0 +1,20 @@
+{
+  "domElement": "<car-trip></car-trip>",
+  "name": "ui.apps.car-trip.name",
+  "types": [
+    "ui.apps.categories.vehicle_info"
+  ],
+  "description": "Display the current/total distance.",
+  "css": {
+    "left": "0px",
+    "height": "90px",
+    "width": "150px",
+    "min-width": "150px",
+    "min-height": "90px",
+    "top": "0px"
+  },
+  "author": "DidierCoignet",
+  "version": "0.1",
+  "preserveAspectRatio" : true,
+  "directive": "carTrip"
+}
